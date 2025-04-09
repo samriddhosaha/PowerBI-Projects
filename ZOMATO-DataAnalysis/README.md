@@ -16,7 +16,7 @@ https://app.powerbi.com/links/VegQNxI02Q?ctid=36da45f1-dd2c-4d1f-af13-5abe46b999
 ![App Screenshot](https://github.com/samriddhosaha/PowerBI-Projects/blob/main/ZOMATO-DataAnalysis/Screenshots/Page-2.PNG)
 ### Page-3: User Analysis
 ![App Screenshot](https://github.com/samriddhosaha/PowerBI-Projects/blob/main/ZOMATO-DataAnalysis/Screenshots/Page-3.PNG)
-### Page-1: City Analysis
+### Page-4: City Analysis
 ![App Screenshot](https://github.com/samriddhosaha/PowerBI-Projects/blob/main/ZOMATO-DataAnalysis/Screenshots/Page-4.PNG)
 ### Model View
 ![App Screenshot](https://github.com/samriddhosaha/PowerBI-Projects/blob/main/ZOMATO-DataAnalysis/Screenshots/Model%20View.png)
