@@ -1,4 +1,4 @@
-# Sales Analysis Project
+# Sales Analysis Dashboard
 In this project I analysed the Sales data of a Chocolate Company and retrieved an overall picture of the cost, sales, profit and shipment involved in the company's transactions.
 ## Process
 Cleaned and processed the data from multiple sources, applied SQL queries, visualized the trend using Power BI.
